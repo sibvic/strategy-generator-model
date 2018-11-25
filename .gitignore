@@ -1,3 +1,6 @@
-.vs
-obj
-bin
+ModelParser/obj
+ModelParser/bin
+ModelParser.Tests/obj
+ModelParser.Tests/bin
+Model/obj
+Model/bin
